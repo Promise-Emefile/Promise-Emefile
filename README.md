@@ -1,6 +1,6 @@
 ## Hi, I'm Promise Emefile 👋
 
-Data Analyst & AI Engineer based in Lagos, Nigeria.
+Data Scientist & AI Engineer based in Lagos, Nigeria.
 
 I build end-to-end analytics solutions — from complex SQL pipelines and 
 business dashboards to multi-agent AI systems. My recent work includes 
