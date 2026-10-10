@@ -12,7 +12,7 @@ platform, tracking GGR, retention, fraud risk, and executive KPIs across
 
 *Analytics & BI:* SQL (PostgreSQL, MySQL) · Power BI · Metabase · Excel  
 *Python:* Pandas · Scikit-learn · Matplotlib · Streamlit  
-*AI & ML:* LangChain · CrewAI · RAG · Random Forest · Clustering  
+*AI & ML:* LangChain · CrewAI · RAG · Random Forest · Clustering · Fine-Tuning(in-view) · Model Evaluation · Supervised and Unsupervised learning
 *Other:* GitHub · Hugging Face Spaces · FastAPI  
 
 ## Featured Work
